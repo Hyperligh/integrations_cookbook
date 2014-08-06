@@ -9,6 +9,7 @@
 <body>
 <div id="container">
 <h1>Integrations CookBook</h1>
+<p>All you need to know about Integrations</p>
 </div>
 </body>
 </html>
