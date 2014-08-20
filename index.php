@@ -45,6 +45,12 @@ session_start();
 			require_once'view/centershift/centershift.php';
 			require_once'view/shell/footer.php';
 		}
+		else{
+			require_once'view/shell/head.php';
+			require_once'view/shell/header.php';
+			require_once'view/shell/error.php';
+			require_once'view/shell/footer.php';
+		}
 		
 	}//if there is an id
 //} Session == Client

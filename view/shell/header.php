@@ -1,6 +1,7 @@
 <header>
 	<nav>
 		<ul>
+			<li><a href="index.php">Home</a></li>
 			<li><a href="index.php?id=1">SiteLink</a></li>
 			<li><a href="index.php?id=2">Yardi RentCafe</a></li>
 			<li><a href="index.php?id=3">Yardi Voyager</a></li>
